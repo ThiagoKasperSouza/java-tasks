@@ -1,0 +1,12 @@
+/home/thiag/java-example/src/main/java/com/example/taskmanager/TaskManagerApplication.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/domain/Priority.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/domain/Task.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/domain/TaskStatus.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/dto/TaskRequest.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/dto/TaskResponse.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/exception/BusinessRuleException.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/exception/ResourceNotFoundException.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/repository/TaskRepository.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/service/TaskService.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/web/ApiExceptionHandler.java
+/home/thiag/java-example/src/main/java/com/example/taskmanager/web/TaskController.java
